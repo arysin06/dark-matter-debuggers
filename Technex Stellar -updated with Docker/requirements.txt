@@ -1,0 +1,9 @@
+flask
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+imbalanced-learn
+plotly          # <--- Add this line
+requests
